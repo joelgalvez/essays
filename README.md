@@ -1,4 +1,5 @@
 # essays
+
 Juncture visual essays
 
 
