@@ -1,6 +1,6 @@
 # Test2
 
->Detailed knowledge of the shape of the seafloor is crucial to humankind. Bathymetry data is critical for safety of navigation and is used for many other applications. In an era of ongoing environmental degradation worldwide, bathymetry data (and the knowledge derived from it) play a pivotal role in using and managing the world’s oceans in a way that is in accordance with the United Nations Sustainable Development Goal 14 – conserve and sustainably use the oceans, seas and marine resources for sustainable development. As Melody Jue puts it, the science and technique of descent, be the skill-set of diver, submariner or remote vehicle operator, is as much about a descent into the unknown as it is the management of the known.[^1]
+>Detailed knowledge of the ==shape==(Q194333) of the seafloor is crucial to humankind. Bathymetry data is critical for safety of navigation and is used for many other applications. In an era of ongoing environmental degradation worldwide, bathymetry data (and the knowledge derived from it) play a pivotal role in using and managing the world’s oceans in a way that is in accordance with the United Nations Sustainable Development Goal 14 – conserve and sustainably use the oceans, seas and marine resources for sustainable development. As Melody Jue puts it, the science and technique of descent, be the skill-set of diver, submariner or remote vehicle operator, is as much about a descent into the unknown as it is the management of the known.[^1]
 
 > Although scuba diving is more conventionally associated with scientific research or maritime industries, I see diving as a method of cognitive estrangement that makes visible the terrestrial biases that have calcified in the way that we figuratively speak about the world. On a basic level, diving provided access to underwater archives that I could not otherwise have reached.[^2]
 
@@ -10,12 +10,8 @@ Technology mediates the ability to descend and the possibility of safely ascendi
 
 At the attenuation of *telos*, the world does end for the epistemic mariner captured within the estranging bubble of the bathymetric descent. The surface is annihilated as the view reveals dreams, visions, annihilations, absences, strange presences, excesses, voids. Only relationships with the strange and the inchoate remain, drifting in currents of uncertain excess and absence.
 
-aaa
-
 #DMBH #CH1 #BathymetricReading #TimothyMorton #MelodyJue #Absence #Descent #ParaBlock 
 
 [^1]: Anne-Cathrin Wölfl, Helen Snaith, Sam Amirebrahimi, Colin W. Devey, Boris Dorschel, Vicki Ferrini, Veerle A. I. Huvenne, et al. ‘Seafloor Mapping – The Challenge of a Truly Global Ocean Bathymetry’. _Frontiers in Marine Science_ 6 (5 June 2019). [https://doi.org/10.3389/fmars.2019.00283](https://doi.org/10.3389/fmars.2019.00283).
 [^2]: Melody Jue, _Wild Blue Media: Thinking through Seawater_ (Duke University Press, 2020), p. 163.
 [^3]: Timothy Morton. _Hyperobjects: Philosophy and Ecology after the End of the World_. Posthumanities 27. Minneapolis: University of Minnesota Press, 2013, p. 95.
-
-ddd
