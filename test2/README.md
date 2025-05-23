@@ -10,8 +10,12 @@ Technology mediates the ability to descend and the possibility of safely ascendi
 
 At the attenuation of *telos*, the world does end for the epistemic mariner captured within the estranging bubble of the bathymetric descent. The surface is annihilated as the view reveals dreams, visions, annihilations, absences, strange presences, excesses, voids. Only relationships with the strange and the inchoate remain, drifting in currents of uncertain excess and absence.
 
+aaa
+
 #DMBH #CH1 #BathymetricReading #TimothyMorton #MelodyJue #Absence #Descent #ParaBlock 
 
 [^1]: Anne-Cathrin Wölfl, Helen Snaith, Sam Amirebrahimi, Colin W. Devey, Boris Dorschel, Vicki Ferrini, Veerle A. I. Huvenne, et al. ‘Seafloor Mapping – The Challenge of a Truly Global Ocean Bathymetry’. _Frontiers in Marine Science_ 6 (5 June 2019). [https://doi.org/10.3389/fmars.2019.00283](https://doi.org/10.3389/fmars.2019.00283).
 [^2]: Melody Jue, _Wild Blue Media: Thinking through Seawater_ (Duke University Press, 2020), p. 163.
 [^3]: Timothy Morton. _Hyperobjects: Philosophy and Ecology after the End of the World_. Posthumanities 27. Minneapolis: University of Minnesota Press, 2013, p. 95.
+
+ddd
